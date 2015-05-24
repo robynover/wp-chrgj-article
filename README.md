@@ -1,5 +1,7 @@
 # Wordpress Plugin for Custom Post Type for Articles
 
+Originally developed for http://chrgj.org
+
 ### Includes the fields:
 * Body
 
