@@ -2,7 +2,12 @@
 
 Originally developed for http://chrgj.org
 
-### Includes the fields:
+Allows you to add article categories
+
+#### Includes the fields:
+
+* Title
+
 * Body
 
 * URL
@@ -13,6 +18,6 @@ Originally developed for http://chrgj.org
 
 * Publication Date
 
-Allows you to add article categories.
 
+#### Relationships
 If using the [Post2Post plugin](https://wordpress.org/plugins/posts-to-posts/), you can link other custom posts to an article. For example, if you have an "Author" post type, you can connect the author to the article they wrote.
